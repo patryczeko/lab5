@@ -1,0 +1,12 @@
+{
+    "name": "moja-aplikacja",
+    "version": "1.0.0",
+    "description": "Prosta aplikacja webowa",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo co˜ tam"
+    },
+    "author": "Patryk Skocz",
+    "license": "ISC"
+    
+}
