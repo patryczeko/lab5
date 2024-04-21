@@ -12,5 +12,9 @@ docker run -d -p 8080:80 nazwa_obrazu
 ```
 
 Efekt działania aplikacji node
-![image](img%image.png)
 
+![image](image.png)
+
+Efekt działania na serwerze nginx
+
+![image](nginx.png)
