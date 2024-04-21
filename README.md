@@ -11,5 +11,6 @@ Po czym uruchamiamy kontener poleceniem
 docker run -d -p 8080:80 nazwa_obrazu
 ```
 
-
+Efekt działania aplikacji node
+![image](img%image.png)
 
